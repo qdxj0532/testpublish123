@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     internal class ccc
     {
+        private int a = 5;
     }
 }
