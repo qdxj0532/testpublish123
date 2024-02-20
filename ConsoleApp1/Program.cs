@@ -12,5 +12,14 @@ Random r = new Random();
 {
        Console.WriteLine(i);
 }
+// 一个数组中小于20的移除
+List<int> list = new List<int>();
+for (int i = 0; i < arr.Length; i++)
+{
+    if (arr[i] < 20)
+    {
+        list.Add(arr[i]);
+    }
+}
 int a = 5;
 Console.Read();
