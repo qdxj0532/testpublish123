@@ -21,5 +21,6 @@ for (int i = 0; i < arr.Length; i++)
         list.Add(arr[i]);
     }
 }
+int b = 3;
 int a = 5;
 Console.Read();
